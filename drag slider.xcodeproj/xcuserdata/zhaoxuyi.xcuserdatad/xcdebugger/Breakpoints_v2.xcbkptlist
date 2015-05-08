@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BullsEye/ViewController.swift"
+            timestampString = "451833325.474475"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BullsEye.ViewController.slider.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UISlider&gt;"
+                  moduleName = "BullsEye"
+                  urlString = "file:///Users/zhaoxuyi/Desktop/BullsEye/BullsEye/ViewController.swift"
+                  timestampString = "451785057.028349"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BullsEye.ViewController.slider.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UISlider&gt;"
+                  moduleName = "BullsEye"
+                  urlString = "file:///Users/zhaoxuyi/Desktop/BullsEye/BullsEye/ViewController.swift"
+                  timestampString = "451785057.028626"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BullsEye.ViewController.init (BullsEye.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; BullsEye.ViewController"
+                  moduleName = "BullsEye"
+                  urlString = "file:///Users/zhaoxuyi/Desktop/BullsEye/BullsEye/ViewController.swift"
+                  timestampString = "451785057.028826"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "53">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BullsEye.ViewController.init (BullsEye.ViewController.Type)() -&gt; BullsEye.ViewController"
+                  moduleName = "BullsEye"
+                  urlString = "file:///Users/zhaoxuyi/Desktop/BullsEye/BullsEye/ViewController.swift"
+                  timestampString = "451785057.029134"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BullsEye.ViewController.init (BullsEye.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; BullsEye.ViewController"
+                  moduleName = "BullsEye"
+                  urlString = "file:///Users/zhaoxuyi/Desktop/BullsEye/BullsEye/ViewController.swift"
+                  timestampString = "451785057.029353"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
